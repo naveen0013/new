@@ -1,2 +1,2 @@
-new="just a text"
+new="just a "
 print(1)
